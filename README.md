@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Rakshitha T</h1>
 <h3 align="center">Computer Science & Engineering Student | Karnataka, India</h3>
 
