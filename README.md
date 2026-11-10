@@ -109,7 +109,6 @@
 | Repository | Description |
 |-----------|-------------|
 | [🛡️ Cyber-Portfolio](https://github.com/raksht/Cyber-Portfolio) | Security lab writeups, incident reports, and compliance audit — PortSwigger, TryHackMe, Google Cert |
-| [📚 DSA Solutions](https://github.com/raksht/dsa_solutions) | Solving Striver A2Z DSA Sheet — building algorithmic problem-solving skills |
 
 ---
 
