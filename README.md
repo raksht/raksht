@@ -22,7 +22,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final Year B.E. Computer Science & Engineering student at **BGS Institute of Technology (BGSIT)**, graduating May 2027
-- 📊 CGPA: **8.26 / 10 (First Class with Distinction)**
+- 📊 CGPA: **8.42 / 10 (First Class with Distinction)**
 - 🔍 Interested in **Software Development, IT Security, and Problem Solving**
 - 📚 Currently working through the **Striver A2Z DSA Sheet**
 - 🏆 Ranked **Top 15% globally on TryHackMe**
